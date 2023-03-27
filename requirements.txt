@@ -1,5 +1,3 @@
-asgiref
 Django
-pytz
-sqlparse
+Pillow
 gunicorn
