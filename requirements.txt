@@ -1,3 +1,8 @@
 Django
 Pillow
 gunicorn
+aiohttp
+asgiref
+pytz
+sqlparse
+sqlite3
